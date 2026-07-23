@@ -1,0 +1,23 @@
+{
+  "users": {},
+  "last_login": "snhk",
+  "auto_login": true,
+  "server": "127.0.0.1:8080",
+  "theme": {
+    "mode": "dark",
+    "color": "#5850f1"
+  },
+  "style": "hardware_tech",
+  "render_mode": "auto",
+  "avatar": "",
+  "token": "",
+  "proxy": {
+    "enable": false,
+    "type": "http",
+    "host": "127.0.0.1",
+    "port": "7890"
+  },
+  "local_record": "./record",
+  "inject_mode": "direct",
+  "log_path": "./log"
+}
